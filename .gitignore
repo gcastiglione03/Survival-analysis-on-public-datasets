@@ -1,0 +1,17 @@
+# R session files
+.RData
+.Rhistory
+*.Rproj.user
+
+# Saved sessions
+Session*.RData
+
+# Output files (optional: remove if you want plots on GitHub)
+# outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE files
+.idea/
